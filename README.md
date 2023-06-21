@@ -1,4 +1,6 @@
 # CALCULADORA EM PYTHON USANDO WHILE!!!
+
+
 while True:
     numero1 = input ('DIGITE O PRIMEIRO NÚMERO:  ')
     operador = input ('DIGITE O OPERADOR [+,-,/,*]: ')
